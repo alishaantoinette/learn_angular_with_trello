@@ -1,0 +1,22 @@
+.title-bar {
+  background-color: #44547E;
+}
+
+.trello-title {
+  color: #5E9DC7;
+  margin: 0;
+  height: 40px;
+  text-align: center;
+  padding: 5px 0;
+}
+
+.boards {
+  background-color: #047BC2;
+  height: calc(100vh - 40px);
+}
+
+.board-title {
+  color: #E3E3E3;
+  margin: 0;
+  padding: 20px 0 10px 40px;
+}
